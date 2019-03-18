@@ -38,5 +38,8 @@ public class Student {
         group1.add(stud2);
         group1.add(stud3);
         group1.add(stud4);
-System.out.println(middleAge(group1));    }
+        System.out.println(middleAge(group1));
+        System.out.println(middleAge(group1));
+        System.out.println(middleAge(group1));
+    }
 }
